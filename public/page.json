@@ -1,0 +1,283 @@
+{
+  "designerVersion" : "1.6.46",
+  "id" : "f7273288-f4e5-4332-87c3-42cbab4a1389",
+  "name" : "Tabla",
+  "type" : "page",
+  "lastUpdate" : 1526244329195,
+  "rows" : [ [ {
+    "type" : "container",
+    "dimension" : {
+      "xs" : 12
+    },
+    "propertyValues" : {
+      "cssClasses" : {
+        "type" : "constant",
+        "value" : ""
+      },
+      "hidden" : {
+        "type" : "constant",
+        "value" : false
+      },
+      "repeatedCollection" : {
+        "type" : "variable",
+        "value" : ""
+      }
+    },
+    "reference" : "a42c7606-ee19-4fd8-8185-8142252db3cb",
+    "id" : "pbContainer",
+    "rows" : [ [ {
+      "type" : "component",
+      "dimension" : {
+        "xs" : 6
+      },
+      "propertyValues" : {
+        "cssClasses" : {
+          "type" : "constant",
+          "value" : ""
+        },
+        "hidden" : {
+          "type" : "constant",
+          "value" : false
+        },
+        "readOnly" : {
+          "type" : "constant",
+          "value" : false
+        },
+        "required" : {
+          "type" : "constant",
+          "value" : false
+        },
+        "labelHidden" : {
+          "type" : "constant",
+          "value" : false
+        },
+        "label" : {
+          "type" : "interpolation",
+          "value" : "Date"
+        },
+        "labelPosition" : {
+          "type" : "constant",
+          "value" : "top"
+        },
+        "labelWidth" : {
+          "type" : "constant",
+          "value" : 4
+        },
+        "value" : {
+          "type" : "variable",
+          "value" : ""
+        },
+        "dateFormat" : {
+          "type" : "constant",
+          "value" : "MM/dd/yyyy"
+        },
+        "placeholder" : {
+          "type" : "interpolation",
+          "value" : "Enter a date (mm/dd/yyyy)"
+        },
+        "showToday" : {
+          "type" : "constant",
+          "value" : true
+        },
+        "todayLabel" : {
+          "type" : "interpolation",
+          "value" : "Today"
+        }
+      },
+      "reference" : "b31d9547-bec6-437f-8df8-85797d8ea501",
+      "id" : "pbDatePicker"
+    }, {
+      "type" : "component",
+      "dimension" : {
+        "xs" : 6
+      },
+      "propertyValues" : {
+        "cssClasses" : {
+          "type" : "constant",
+          "value" : ""
+        },
+        "hidden" : {
+          "type" : "constant",
+          "value" : false
+        },
+        "readOnly" : {
+          "type" : "constant",
+          "value" : false
+        },
+        "required" : {
+          "type" : "constant",
+          "value" : false
+        },
+        "labelHidden" : {
+          "type" : "constant",
+          "value" : false
+        },
+        "label" : {
+          "type" : "interpolation",
+          "value" : "Date"
+        },
+        "labelPosition" : {
+          "type" : "constant",
+          "value" : "top"
+        },
+        "labelWidth" : {
+          "type" : "constant",
+          "value" : 4
+        },
+        "value" : {
+          "type" : "variable",
+          "value" : ""
+        },
+        "dateFormat" : {
+          "type" : "constant",
+          "value" : "MM/dd/yyyy"
+        },
+        "placeholder" : {
+          "type" : "interpolation",
+          "value" : "Enter a date (mm/dd/yyyy)"
+        },
+        "showToday" : {
+          "type" : "constant",
+          "value" : true
+        },
+        "todayLabel" : {
+          "type" : "interpolation",
+          "value" : "Today"
+        }
+      },
+      "reference" : "e1020e26-b909-4681-865f-ad651273f13a",
+      "id" : "pbDatePicker"
+    } ], [ {
+      "type" : "component",
+      "dimension" : {
+        "xs" : 6
+      },
+      "propertyValues" : {
+        "cssClasses" : {
+          "type" : "constant",
+          "value" : ""
+        },
+        "hidden" : {
+          "type" : "constant",
+          "value" : false
+        },
+        "readOnly" : {
+          "type" : "constant",
+          "value" : false
+        },
+        "required" : {
+          "type" : "constant",
+          "value" : false
+        },
+        "labelHidden" : {
+          "type" : "constant",
+          "value" : false
+        },
+        "label" : {
+          "type" : "interpolation",
+          "value" : "Date"
+        },
+        "labelPosition" : {
+          "type" : "constant",
+          "value" : "top"
+        },
+        "labelWidth" : {
+          "type" : "constant",
+          "value" : 4
+        },
+        "value" : {
+          "type" : "variable",
+          "value" : ""
+        },
+        "dateFormat" : {
+          "type" : "constant",
+          "value" : "MM/dd/yyyy"
+        },
+        "placeholder" : {
+          "type" : "interpolation",
+          "value" : "Enter a date (mm/dd/yyyy)"
+        },
+        "showToday" : {
+          "type" : "constant",
+          "value" : true
+        },
+        "todayLabel" : {
+          "type" : "interpolation",
+          "value" : "Today"
+        }
+      },
+      "reference" : "95de7fa8-85aa-496d-a326-49de4c353d67",
+      "id" : "pbDatePicker"
+    }, {
+      "type" : "component",
+      "dimension" : {
+        "xs" : 6
+      },
+      "propertyValues" : {
+        "cssClasses" : {
+          "type" : "constant",
+          "value" : ""
+        },
+        "hidden" : {
+          "type" : "constant",
+          "value" : false
+        },
+        "readOnly" : {
+          "type" : "constant",
+          "value" : false
+        },
+        "required" : {
+          "type" : "constant",
+          "value" : false
+        },
+        "labelHidden" : {
+          "type" : "constant",
+          "value" : false
+        },
+        "label" : {
+          "type" : "interpolation",
+          "value" : "Date"
+        },
+        "labelPosition" : {
+          "type" : "constant",
+          "value" : "top"
+        },
+        "labelWidth" : {
+          "type" : "constant",
+          "value" : 4
+        },
+        "value" : {
+          "type" : "variable",
+          "value" : ""
+        },
+        "dateFormat" : {
+          "type" : "constant",
+          "value" : "MM/dd/yyyy"
+        },
+        "placeholder" : {
+          "type" : "interpolation",
+          "value" : "Enter a date (mm/dd/yyyy)"
+        },
+        "showToday" : {
+          "type" : "constant",
+          "value" : true
+        },
+        "todayLabel" : {
+          "type" : "interpolation",
+          "value" : "Today"
+        }
+      },
+      "reference" : "496cd7e3-5050-44ff-9c0e-c0c1421d1a2c",
+      "id" : "pbDatePicker"
+    } ] ]
+  } ] ],
+  "assets" : [ {
+    "id" : "cbaf302a-8fe4-49f7-9ea2-c5cd6fac1cf3",
+    "name" : "style.css",
+    "type" : "css",
+    "order" : 0,
+    "external" : false
+  } ],
+  "inactiveAssets" : [ ],
+  "data" : { }
+}
